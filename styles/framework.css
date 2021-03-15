@@ -1208,6 +1208,12 @@ table tr:hover td{
 	height:16px;
 	opacity:0.9;
 }
+.black-chart{
+	background-color:#000000;
+	margin:3px;
+	height:16px;
+	opacity:0.9;
+}
 
 .chart-round div{
 	border-radius:20px;

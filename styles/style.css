@@ -451,7 +451,14 @@
 	text-shadow:0px 1px 0px #000000;
 	margin-bottom:30px;
 }
-
+.whatsapp-social{
+	background-color:#37b383;
+	line-height:45px;
+	height:45px;
+	color:#FFFFFF;
+	text-shadow:0px 1px 0px #000000;
+	margin-bottom:30px;
+}
 .google-social{
 	background-color:#d34836;
 	line-height:45px;
@@ -585,6 +592,9 @@
 		font-size:14px;	
 		font-weight:500;
 		margin-top:0px;
+	}
+	.float-right{
+		float: none !important;
 	}
 }
 
